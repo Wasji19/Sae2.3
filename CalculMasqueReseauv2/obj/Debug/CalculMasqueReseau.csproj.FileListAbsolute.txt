@@ -1,0 +1,24 @@
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\bin\Debug\CalculMasqueReseau.exe.config
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\bin\Debug\CalculMasqueReseau.exe
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\bin\Debug\CalculMasqueReseau.pdb
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.SuggestedBindingRedirects.cache
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.Form1.resources
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.Properties.Resources.resources
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.GenerateResource.cache
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.exe
+C:\Users\basti\source\repos\SAE Reseau\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.pdb
+C:\Users\youss\Desktop\CalculMasqueReseau\bin\Debug\CalculMasqueReseau.exe.config
+C:\Users\youss\Desktop\CalculMasqueReseau\bin\Debug\CalculMasqueReseau.exe
+C:\Users\youss\Desktop\CalculMasqueReseau\bin\Debug\CalculMasqueReseau.pdb
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.Form1.resources
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.Properties.Resources.resources
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.exe
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.pdb
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.Aide.resources
+C:\Users\youss\Desktop\CalculMasqueReseau\obj\Debug\CalculMasqueReseau.VLSM.resources
